@@ -1,81 +1,80 @@
-<div align="center">
-  
-# 🎬 Elias Andrade | Curadoria de Vídeos e Portfólio Visual 🚀
+# 🎥 Hub Central de Portfólio em Vídeo e Curadoria de Soluções
+### 🧠 Arquitetura de Software, Dados e Sistemas Complexos de Inteligência Artificial
 
-[![YouTube](https://img.shields.io/badge/YouTube-Meu_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itilmgf/)
-[![GitHub](https://img.shields.io/badge/GitHub-chaos4455-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455)
-[![Calendly](https://img.shields.io/badge/Agende_uma_Call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/oeliasandrade/30min)
+[![YouTube](https://img.shields.io/badge/YouTube-Portfólio_em_Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+[![Status](https://img.shields.io/badge/Status-Atualizado_Maio_2026-brightgreen?style=for-the-badge)](#)
+[![Arquiteto Sênior](https://img.shields.io/badge/Role-Solutions_Architect-0052CC?style=for-the-badge)](#)
 
-### 🧠 Arquiteto de IA, MLOps, DevOps e Soluções de Alta Performance
-
-Bem-vindo ao meu **Hub Visual de Projetos**! Este repositório foi criado especificamente para organizar e centralizar minhas **apresentações em vídeo**, **showcases de arquitetura**, **demos de IA** e a **curadoria detalhada** dos meus repositórios no GitHub.
-
-Aqui você encontra a ponte perfeita entre o código (Backend/Infra) e o resultado final visual (Front/Decisão).
-
-</div>
+Bem-vindo ao meu **Ecossistema Visual de Soluções**. Este repositório atua como o **índice mestre** e a curadoria definitiva de todas as minhas apresentações em vídeo, demonstrações de arquitetura de software, pipelines de dados e implementações de IA no estado da arte.
 
 ---
 
-## 📌 Links Rápidos: Diretório de Curadoria Visual
+## 📂 Diretórios Mestre de Conteúdo (Curadoria Técnica)
 
-Acesse abaixo os documentos mestre deste repositório. Eles contêm a lista completa e categorizada de todos os meus vídeos, demonstrações práticas e curadoria de códigos:
+Aqui você encontra a documentação e os links diretos para o meu portfólio em vídeo e projetos de alto impacto. **Selecione um dos catálogos abaixo para explorar:**
 
-### 📺 1. O Portfólio em Vídeo (Master List)
-[![Acessar](https://img.shields.io/badge/Acessar_Documento-Lista_de_Vídeos_V1-FF0000?style=flat-square&logo=youtube)](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/LISTA%20VIDEOS%20YOUTUBE%20PORTFOLIO-V1.MD)
-> **Resumo:** O diretório mestre contendo a listagem completa (Versão 1) de todos os vídeos produzidos para o canal, cobrindo automação, IA, e DevOps.
-
-### 🌟 2. Seleção de Ouro (Vídeos de Alto Impacto)
-[![Acessar](https://img.shields.io/badge/Acessar_Documento-Vídeos_Selecionados-FFB200?style=flat-square&logo=star)](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PORTFOLIO%20ELIAS%20VIDEOS%20SELECIONADOS%2002%2005%202026.MD)
-> **Resumo:** Uma curadoria feita a dedo com os melhores showcases, apresentações de sistemas complexos, agentes de IA e integrações de Supply Chain. **Comece por aqui!**
-
-### 📂 3. Curadoria de Portfólios GitHub
-[![Acessar](https://img.shields.io/badge/Acessar_Documento-Curadoria_GitHub_01/2026-181717?style=flat-square&logo=github)](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PORTFOLIOS%20GITHUB%20CURADORIA%2001%202026.MD)
-> **Resumo:** Um guia de navegação sobre como meus repositórios estão estruturados. Um mapa para recrutadores, parceiros e engenheiros entenderem meu ecossistema de código.
-
-### 🛠️ 4. Projetos Principais e Códigos (Showcase)
-[![Acessar](https://img.shields.io/badge/Acessar_Documento-Projetos_Principais-0077B6?style=flat-square&logo=visual-studio-code)](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PROJETOS%20GITHUB%20CHAOS4455%2025%2004%202026.MD)
-> **Resumo:** Foco no código. Documento detalhando os projetos mais robustos de Abril/2026, com foco em MLOps, LLMs locais, DuckDB, FastAPI e Kubernetes.
+| Ícone | Catálogo / Arquivo | Descrição Estratégica e Foco Técnico |
+|:---:|:---|:---|
+| 🎬 | [**LISTA VIDEOS YOUTUBE PORTFOLIO-V1.MD**](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/LISTA%20VIDEOS%20YOUTUBE%20PORTFOLIO-V1.MD) | O índice completo e masterizado de todos os vídeos do canal. Soluções arquitetadas do zero, demonstrações de código e automações complexas. |
+| 🎯 | [**PORTFOLIO ELIAS VIDEOS SELECIONADOS**](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PORTFOLIO%20ELIAS%20VIDEOS%20SELECIONADOS%2002%2005%202026.MD) *(02/05/2026)* | **A Elite do Portfólio:** Curadoria a dedo dos vídeos que melhor demonstram minha capacidade como Arquiteto de Soluções, resolvendo dores críticas de negócio. |
+| 💎 | [**PORTFOLIOS GITHUB CURADORIA 01 2026.MD**](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PORTFOLIOS%20GITHUB%20CURADORIA%2001%202026.MD) | Guia guiado pelos meus principais repositórios no GitHub, organizados por domínio (IA, Dados, MLOps, DevOps). |
+| 🚀 | [**PROJETOS GITHUB CHAOS4455 25 04 2026.MD**](https://github.com/chaos4455/YOUTUBE-VIDEO-PORTFOLIO/blob/main/PROJETOS%20GITHUB%20CHAOS4455%2025%2004%202026.MD) | Inventário completo de repositórios e projetos entregues até Abril de 2026, documentando minha jornada e evolução técnica. |
 
 ---
 
-## 👨‍💻 Sobre os Projetos Documentados Aqui
+## 👨‍💻 Elias Andrade | Arquiteto Sênior de Soluções (IA, Dados e Negócios)
 
-Nos vídeos e documentos linkados acima, você me verá construindo, arquitetando e operando soluções focadas em:
+> *"A Inteligência Artificial não é o fim. Ela é o meio tecnológico para se decidir melhor, mais rápido e com menos custo operacional."*
 
-![AIOps](https://img.shields.io/badge/AIOps-Inteligência_Operacional-ff7a18?style=for-the-badge)
-![Decision Intelligence](https://img.shields.io/badge/Decision_Intelligence-Decisão_Baseada_em_Dados-ff7a18?style=for-the-badge)
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-Otimização_Logística-2496ED?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Multi_Agent_Systems-8A2BE2?style=for-the-badge)
-![Docker & K8s](https://img.shields.io/badge/Docker_&_K8s-Infra_Escalável-00C8E2?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Backend_e_Dados-3776AB?style=for-the-badge)
+Atuo como **Arquiteto de Sistemas de Inteligência e Tomada de Decisão**, projetando infraestruturas que transformam **dados e IA em valor estratégico**. Meu foco não é apenas criar modelos, mas orquestrar ecossistemas tecnológicos que resolvem problemas crônicos em **cadeias de suprimentos (Supply Chain), operações comerciais e financeiras**.
 
-Atuo resolvendo problemas crônicos de **Supply Chain, RevOps e Operações Críticas**, transformando dados brutos em decisões orquestradas através de **IA Generativa**, **Machine Learning** e **Microsserviços**.
+### 🏗️ Domínios de Arquitetura e Foco de Negócio
 
----
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-Compras_e_Estoque-ff7a18?style=for-the-badge)
+![RevOps](https://img.shields.io/badge/RevOps-Operações_Comerciais-ff7a18?style=for-the-badge)
+![Decision Intelligence](https://img.shields.io/badge/Decision_Intelligence-Decisão_Data--Driven-ff7a18?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-BI_&_Forecasting-ff7a18?style=for-the-badge)
 
-## 🎥 Inscreva-se no Meu Canal!
-
-A melhor forma de entender meu trabalho técnico é me vendo "colocar a mão na massa". Semanalmente publico arquiteturas de sistemas, integração de IA no estado da arte e automações DevOps.
-
-<a href="https://www.youtube.com/@eliasandradeLLM" target="_blank">
-  <img src="https://img.shields.io/badge/Inscreva--se-Elias_Andrade_LLM-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se no Canal">
-</a>
+*   **📦 Supply Chain End-to-End:** Arquitetura de sistemas para otimização logística, previsão de demanda (Forecasting com ML/Prophet), gestão de compras, saúde de estoque e visibilidade operacional ponta a ponta.
+*   **📈 RevOps & Commercial Analytics:** Integração de dados de vendas, margem operacional, insights de consumo e automação comercial para alinhamento entre operações e financeiro.
+*   **🤖 IA Operacional & Automação:** Implementação de LLMs (Gemini, Llama) e sistemas Multi-Agentes para triagem de eventos corporativos, análise de contratos, suporte à decisão e extração de conhecimento não estruturado.
 
 ---
 
-## 💼 Vamos Construir Algo Juntos?
+### ⚙️ Stack Tecnológico e Engenharia de Software
 
-Se você assistiu aos meus vídeos ou viu meu código e quer levar inovação, inteligência artificial e estabilidade para a sua empresa, **estou disponível para projetos B2B, consultorias (PJ) ou posições seniores (CLT/Remoto).**
+Minhas soluções são construídas sobre infraestruturas escaláveis, resilientes e orientadas a eventos.
 
-📞 **Contato Rápido:**
-- **Agende um bate-papo:** [Calendly - 30 Minutos](https://calendly.com/oeliasandrade/30min)
-- **E-mail:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
-- **WhatsApp/Telefone:** +55 (11) 9-1135-3137
-- **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/itilmgf)
+![Python](https://img.shields.io/badge/Python-Backend_e_Dados-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-APIs_e_Microservices-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-Agentes_e_RAG-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Pipelines_Preditivos-F7931E?style=for-the-badge&logo=mlflow&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/Docker-Containerização-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orquestração-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DataOps](https://img.shields.io/badge/DataOps-DuckDB_&_Event_Streams-FFCC00?style=for-the-badge&logo=apachekafka&logoColor=black)
 
-<div align="center">
-  <br>
-  <i>"IA não é o fim. IA é o meio para decidir melhor, mais rápido e com menos custo."</i><br>
-  <b>— Elias Andrade</b>
-</div>
+*   **Sistemas Complexos:** Microsserviços, Arquitetura Event-Driven (RabbitMQ/Kafka), Bancos Vetoriais (Qdrant, FAISS) para RAG Avançado.
+*   **Infraestrutura e DevOps:** CI/CD, GitOps (ArgoCD), IaC (Terraform/Ansible), Cloud (AWS EC2, EKS, Digital Ocean).
+*   **Data Engineering:** Construção de motores analíticos de alta performance e pipelines de dados do zero.
+
+---
+
+## 🛑 Acesse o Canal e Veja a Arquitetura em Ação
+
+Os códigos só contam metade da história. No meu canal do YouTube, eu demonstro a **engenharia, o pensamento arquitetural e o impacto de negócio** por trás de cada linha de código e cada infraestrutura provisionada.
+
+[![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+
+---
+
+## 🤝 Vamos resolver problemas complexos juntos?
+
+Se sua empresa possui dores crônicas em operações de **Logística, Estoque, Vendas ou TI**, e precisa de um arquiteto capaz de conectar a **Inteligência Artificial (estado da arte) com problemas reais do negócio**, estou à disposição para conversarmos.
+
+📅 **[Agende uma Call Técnica de 30min no Calendly](https://calendly.com/oeliasandrade/30min)**  
+💼 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/itilmgf/)**  
+📧 **Contato Direto:** oeliasandrade@gmail.com
+
+---
+*Este repositório faz parte do portfólio oficial de Elias Andrade. [Voltar ao GitHub Principal](https://github.com/chaos4455).*
